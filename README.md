@@ -1,6 +1,8 @@
 # CPE-322
+
 **Bold Text**
 *Italic*
+
 > blockquote
 
 Ordered List:
@@ -14,7 +16,9 @@ Unordered List:
 - Third Item
 
 `code`
----horizontal rule
+
+---
 
 [link](https://sites.google.com/view/ece322/home)
+
 ![image](img/butter_dawg.jpg)
