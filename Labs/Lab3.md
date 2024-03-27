@@ -19,4 +19,4 @@
 ![image](Images/cpu.png)
 
 # documentstats.py
-![image](Images/documentstart.png)
+![image](Images/documentstats.png)
