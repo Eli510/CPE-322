@@ -10,7 +10,7 @@
 ![image](Images/sun.png)
 
 # coordinates.py
-![image](Images/coordinates.png)
+![image](Images/coordinated.png)
 
 # address.py
 ![image](Images/address.png)
