@@ -1,4 +1,4 @@
-# Lab 3
+# Lab 4
 
 ## Weather Station
 ![image](Images/Lab4_WeatherStation.png)
